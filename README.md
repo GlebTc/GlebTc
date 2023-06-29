@@ -29,6 +29,6 @@ I began coding as a hobby but that has quickly turned into a passion.  In my jou
 </p>
 
 <h2> My Stats </h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GlebTc&theme=gruvbox-duo&hide_longest_streak=true)](https://git.io/streak-stats)
+http://github-readme-streak-stats.herokuapp.com?user=GlebTc&theme=gruvbox-duo&hide_longest_streak=true)](https://git.io/streak-stats
 
 
