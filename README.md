@@ -17,8 +17,7 @@
     <img alt="Badge | CSS" width="50px" src="https://www.svgrepo.com/show/349330/css3.svg" />
     <img alt="Badge | JS" width="50px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
     <img alt="Badge | TS" width="50px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
-    <img alt="Badge | Redux" width="50px" src="https://www.svgrepo.com/show/303557/redux-logo.svg" />
-    
+    <img alt="Badge | Redux" width="50px" src="https://www.svgrepo.com/show/303557/redux-logo.svg" />    
     <img alt="Badge | React" width="50px" src="https://www.svgrepo.com/show/354259/react.svg" />
     <img alt="Badge | PostgrSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
     <img alt="Badge | Material UI" width="50px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
