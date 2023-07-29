@@ -37,6 +37,10 @@
   <li>Node JS</li>
   <li>Express JS</li>
 </ul>
+<h3>Database</h3>
+<ul>
+  <li>PostgreSQL</li>
+</ul>
 <h3>Other Tools</h3>
 <ul>
   <li>TypeScript</li>
