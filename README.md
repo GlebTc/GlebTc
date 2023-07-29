@@ -24,27 +24,38 @@
   </p>
 
 <h2>Welcome to my GitHub</h2>
-<h3>Front End</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>React JS</li>
-  <li>Material UI</li>
-  <li>Bootstrap</li>
-</ul>
-<h3>Back End</h3>
-<ul>
-  <li>Node JS</li>
-  <li>Express JS</li>
-</ul>
-<h3>Database</h3>
-<ul>
-  <li>PostgreSQL</li>
-</ul>
-<h3>Other Tools</h3>
-<ul>
-  <li>TypeScript</li>
-  <li>Redux</li>
-  <li>JEST</li>
-  <li>Postman</li>
-</ul>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h3 style="font-size: 20px; margin-bottom: 10px;">Front End</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="margin-bottom: 5px;">HTML</li>
+      <li style="margin-bottom: 5px;">CSS</li>
+      <li style="margin-bottom: 5px;">React JS</li>
+      <li style="margin-bottom: 5px;">Material UI</li>
+      <li style="margin-bottom: 5px;">Bootstrap</li>
+    </ul>
+  </div>
+  <div style="flex: 1; margin-right: 20px;">
+    <h3 style="font-size: 20px; margin-bottom: 10px;">Back End</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="margin-bottom: 5px;">Node JS</li>
+      <li style="margin-bottom: 5px;">Express JS</li>
+    </ul>
+  </div>
+  <div style="flex: 1; margin-right: 20px;">
+    <h3 style="font-size: 20px; margin-bottom: 10px;">Database</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="margin-bottom: 5px;">PostgreSQL</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <h3 style="font-size: 20px; margin-bottom: 10px;">Other Tools</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li style="margin-bottom: 5px;">TypeScript</li>
+      <li style="margin-bottom: 5px;">Redux</li>
+      <li style="margin-bottom: 5px;">JEST</li>
+      <li style="margin-bottom: 5px;">Postman</li>
+    </ul>
+  </div>
+</div>
+
