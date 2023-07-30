@@ -24,8 +24,8 @@
   </p>
 
 <h2>Welcome to my GitHub</h2>
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 20px;">
+<div style={{display: flex; justify-content: space-between;}}>
+  <div>
     <h3 style="font-size: 20px; margin-bottom: 10px;">Front End</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-bottom: 5px;">HTML</li>
@@ -35,20 +35,20 @@
       <li style="margin-bottom: 5px;">Bootstrap</li>
     </ul>
   </div>
-  <div style="flex: 1; margin-right: 20px;">
+  <div>
     <h3 style="font-size: 20px; margin-bottom: 10px;">Back End</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-bottom: 5px;">Node JS</li>
       <li style="margin-bottom: 5px;">Express JS</li>
     </ul>
   </div>
-  <div style="flex: 1; margin-right: 20px;">
+  <div>
     <h3 style="font-size: 20px; margin-bottom: 10px;">Database</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-bottom: 5px;">PostgreSQL</li>
     </ul>
   </div>
-  <div style="flex: 1;">
+  <div>
     <h3 style="font-size: 20px; margin-bottom: 10px;">Other Tools</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li style="margin-bottom: 5px;">TypeScript</li>
