@@ -24,7 +24,7 @@
   </p>
 
 <h2>Welcome to my GitHub</h2>
-<div style={{display: flex; justify-content: space-between;}}>
+<div display="flex">
   <div>
     <h3 style="font-size: 20px; margin-bottom: 10px;">Front End</h3>
     <ul style="list-style-type: none; padding: 0;">
