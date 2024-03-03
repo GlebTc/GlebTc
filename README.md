@@ -26,7 +26,9 @@
 </p>
 
 <h2>Welcome to my GitHub</h2>
-  <details>
+<table>
+  <tr>
+    <td> <details>
     <summary>Front End</summary>
     <ul>
       <li>HTML</li>
@@ -35,7 +37,10 @@
       <li>Material UI</li>
       <li>Bootstrap</li>
     </ul>
-  </details>
+  </details></td>
+  </tr>
+</table>
+ 
   <details>
     <summary>Back End</summary>
     <ul>
@@ -57,4 +62,3 @@
       <li>JEST</li>
       <li>Postman</li>
 </details>
-
