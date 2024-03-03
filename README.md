@@ -23,7 +23,7 @@
   <img alt="Badge | React" width="50px" src="https://www.svgrepo.com/show/354259/react.svg" />
   <img alt="Badge | PostgrSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
   <img alt="Badge | Material UI" width="50px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
-  <img alt="Badge | Python" width="50px" src="https://www.svgrepo.com/show/352795/python.svg" />
+  <img alt="Badge | Python" width="50px" src="https://www.svgrepo.com/show/374016/python.svg" />
   <img alt="Badge | Django" width="50px" src="https://www.svgrepo.com/show/303198/django-logo.svg" />
 </p>
 
