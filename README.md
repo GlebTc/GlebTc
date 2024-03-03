@@ -27,9 +27,9 @@
 
 <h2>Welcome to my GitHub</h2>
 
-<div style="display: flex;">
-  <div>
-    <h3>Front End</h3>
+
+  <details>
+    <summary>Front End</summary>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
@@ -37,7 +37,11 @@
       <li>Material UI</li>
       <li>Bootstrap</li>
     </ul>
-  </div>
+  </details>
+
+
+
+  
   <div>
     <h3>Back End</h3>
     <ul>
@@ -45,9 +49,6 @@
       <li>Express JS</li>
     </ul>
   </div>
-</div>
-
-<div style="display: flex;">
   <div>
     <h3>Database</h3>
     <ul>
@@ -63,4 +64,4 @@
       <li>Postman</li>
     </ul>
   </div>
-</div>
+
