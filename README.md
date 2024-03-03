@@ -24,7 +24,7 @@
   <img alt="Badge | PostgrSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
   <img alt="Badge | Material UI" width="50px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
   <img alt="Badge | Python" width="50px" src="https://www.svgrepo.com/show/374016/python.svg" />
-  <img alt="Badge | Django" width="50px" src="https://www.svgrepo.com/show/303198/django-logo.svg" />
+  <img alt="Badge | Django" width="50px" src="https://www.svgrepo.com/show/373554/django.svg" />
 </p>
 
 <h2>Welcome to my GitHub</h2>
