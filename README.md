@@ -45,6 +45,9 @@
       <li>Express JS</li>
     </ul>
   </div>
+</div>
+
+<div style="display: flex;">
   <div>
     <h3>Database</h3>
     <ul>
