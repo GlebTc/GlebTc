@@ -23,38 +23,46 @@
   <img alt="Badge | React" width="50px" src="https://www.svgrepo.com/show/354259/react.svg" />
   <img alt="Badge | PostgrSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
   <img alt="Badge | Material UI" width="50px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
+  <img alt="Badge | Python" width="50px" src="https://www.svgrepo.com/show/352795/python.svg" />
+  <img alt="Badge | Django" width="50px" src="https://www.svgrepo.com/show/303198/django-logo.svg" />
 </p>
 
 <h2>Welcome to my GitHub</h2>
+
 <details>
-    <summary>Front End</summary>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>React JS</li>
-      <li>Material UI</li>
-      <li>Bootstrap</li>
-    </ul>
-  </details>
- 
-  <details>
-    <summary>Back End</summary>
-    <ul>
-      <li>Node JS</li>
-      <li>Express JS</li>
-    </ul>
-  </div>
-  <div>
-    <h3>Database</h3>
-    <ul>
-      <li>PostgreSQL</li>
-    </ul>
-    </details>  
+  <summary>Front End</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>React JS</li>
+    <li>Material UI</li>
+    <li>Bootstrap</li>
+  </ul>
+</details>
+
 <details>
-   <summary>Other Tools</summary>
-    <ul>
-      <li>TypeScript</li>
-      <li>Redux</li>
-      <li>JEST</li>
-      <li>Postman</li>
+  <summary>Back End</summary>
+  <ul>
+    <li>Node JS</li>
+    <li>Express JS</li>
+    <li>Python</li>
+    <li>Django</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Database</summary>
+  <ul>
+    <li>PostgreSQL</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Other Tools</summary>
+  <ul>
+    <li>TypeScript</li>
+    <li>Redux</li>
+    <li>JEST</li>
+    <li>Postman</li>
+  </ul>
 </details>
