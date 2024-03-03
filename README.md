@@ -26,8 +26,6 @@
 </p>
 
 <h2>Welcome to my GitHub</h2>
-
-
   <details>
     <summary>Front End</summary>
     <ul>
@@ -38,12 +36,8 @@
       <li>Bootstrap</li>
     </ul>
   </details>
-
-
-
-  
-  <div>
-    <h3>Back End</h3>
+  <details>
+    <summary>Back End</summary>
     <ul>
       <li>Node JS</li>
       <li>Express JS</li>
@@ -54,14 +48,13 @@
     <ul>
       <li>PostgreSQL</li>
     </ul>
-  </div>
-  <div>
-    <h3>Other Tools</h3>
+    </details>  
+<details>
+   <summary>Other Tools</summary>
     <ul>
       <li>TypeScript</li>
       <li>Redux</li>
       <li>JEST</li>
       <li>Postman</li>
-    </ul>
-  </div>
+</details>
 
