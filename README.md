@@ -33,8 +33,8 @@
   <summary>Front End</summary>
   <ul>
     <li>HTML</li>
-    <li>CSS</li>
-    <li>React JS</li>
+    <li>CSS (Tailwind CSS)</li>
+    <li>React JS (Next JS)</li>
     <li>Material UI</li>
     <li>Bootstrap</li>
   </ul>
@@ -61,7 +61,7 @@
   <summary>Other Tools</summary>
   <ul>
     <li>TypeScript</li>
-    <li>Redux</li>
+    <li>State Management</li>
     <li>JEST</li>
     <li>Postman</li>
   </ul>
