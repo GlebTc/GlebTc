@@ -1,5 +1,5 @@
 # Hello 👋
-<h2> My name is <a href="https://gtportfolio.dev">Gleb</a> </h2>
+<p> My name is <a href="https://gtportfolio.dev">Gleb</a> </p>
 
 ## Social Media
 <p>
