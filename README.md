@@ -24,7 +24,6 @@
   <img alt="Badge | Redux" width="50px" src="https://www.svgrepo.com/show/303557/redux-logo.svg" />    
   <img alt="Badge | React" width="50px" src="https://www.svgrepo.com/show/354259/react.svg" />
   <img alt="Badge | Vue" width="50px" src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" />
-  <img alt="Badge | Next" width="50px" src="https://www.svgrepo.com/show/354112/nextjs.svg" />
   <img alt="Badge | PostgrSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
   <img alt="Badge | Material UI" width="50px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
   <img alt="Badge | Python" width="50px" src="https://www.svgrepo.com/show/374016/python.svg" />
