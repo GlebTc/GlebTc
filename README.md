@@ -10,7 +10,7 @@
     <img alt="Gleb Tc | Twitter" width="50px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
   </a>
       <a href="https://twitter.com/Gleb_TC">
-    <img alt="X" width="50px" src="https://logowik.com/content/uploads/images/twitter-x-rounded-icon3636.logowik.com.webp" />
+    <img alt="X" width="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" />
   </a>
   <a href="mailto:gleb.tchani@gmail.com">
     <img alt="Gleb Tc | gmail" width="50px" src="https://www.svgrepo.com/show/452213/gmail.svg" />
