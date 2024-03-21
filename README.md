@@ -32,7 +32,7 @@
   <img alt="Badge | Django" width="50px" src="https://www.svgrepo.com/show/373554/django.svg" />
 </p>
 
-## Technologies Breakdown
+### Technologies Breakdown
 
 <details>
   <summary>Front End</summary>
