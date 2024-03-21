@@ -8,6 +8,7 @@
   </a>
   <a href="https://twitter.com/Gleb_TC">
     <img alt="Gleb Tc | Twitter" width="50px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
+    <img alt="Gleb Tc | Twitter" width="50px" src="[https://www.svgrepo.com/show/475689/twitter-color.svg](https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg)" />
   </a>
   <a href="mailto:gleb.tchani@gmail.com">
     <img alt="Gleb Tc | gmail" width="50px" src="https://www.svgrepo.com/show/452213/gmail.svg" />
