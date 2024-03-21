@@ -1,5 +1,5 @@
 # Hello 👋
-<p> My name is <a href="https://gtportfolio.dev">Gleb</a> </p>
+<p>My Name is Gleb.  Welcome to my GitHub! I'm on a journey to build and innovate through technology. With a strong foundation in JS/TS, React/Next, Express, and PostgreSQL, I'm well-equipped to tackle challenges in the ever-evolving world of web development. Additionally, I have experience with Python and Django REST framework, adding versatility to my skill set.</p>
 
 ## Social Media
 <p>
@@ -23,6 +23,7 @@
   <img alt="Badge | TS" width="50px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
   <img alt="Badge | Redux" width="50px" src="https://www.svgrepo.com/show/303557/redux-logo.svg" />    
   <img alt="Badge | React" width="50px" src="https://www.svgrepo.com/show/354259/react.svg" />
+  <img alt="Badge | Vue" width="50px" src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" />
   <img alt="Badge | PostgrSQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
   <img alt="Badge | Material UI" width="50px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
   <img alt="Badge | Python" width="50px" src="https://www.svgrepo.com/show/374016/python.svg" />
@@ -37,6 +38,7 @@
     <li>HTML</li>
     <li>CSS (Tailwind CSS)</li>
     <li>React JS (Next JS)</li>
+    <li>Vue JS </li>
     <li>Material UI</li>
     <li>Bootstrap</li>
   </ul>
