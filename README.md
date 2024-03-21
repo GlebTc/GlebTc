@@ -1,5 +1,7 @@
-<h1> Hello 👋 </h1>
+# Hello 👋
 <h2> My name is <a href="https://gtportfolio.dev">Gleb</a> </h2>
+
+## Social Media
 <p>
   <a href="https://www.linkedin.com/in/glebtc/">
     <img alt="Gleb Tc | LinkedIn" width="50px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
@@ -12,7 +14,7 @@
   </a>
 </p>
 
-<br>
+## Technologies
 
 <p>
   <img alt="Badge | HTML" width="50px" src="https://www.svgrepo.com/show/349402/html5.svg" style="margin-right: 20px"/>
