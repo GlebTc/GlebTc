@@ -11,10 +11,8 @@
     <img alt="Gleb Tc | gmail" width="50px" src="https://www.svgrepo.com/show/452213/gmail.svg" />
   </a>
 
-        <a href="https://twitter.com/Gleb_TC">
-    <img alt="Gleb Tc | Twitter | X" width="50px" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" />
-
-        
+  <a href="https://twitter.com/Gleb_TC">
+    <img alt="Gleb Tc | Twitter | X" width="50px" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" />     
   </a>
 </p>
 
