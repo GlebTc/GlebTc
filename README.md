@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://twitter.com/Gleb_TC">
-    <img alt="Gleb Tc | Twitter | X" width="50px" src="https://icons8.com/icon/YfCbGWCWcuar/x" />     
+    <img alt="Gleb Tc | Twitter | X" width="50px" src="https://github.com/user-attachments/assets/6834b67b-cb41-4804-88dc-b36e10089741" />     
   </a>
 </p>
 
